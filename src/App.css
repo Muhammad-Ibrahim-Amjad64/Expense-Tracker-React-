@@ -1,0 +1,13 @@
+.App {
+  /* text-align: center; */
+  /* background-color: #7acaa2; */
+  /* background-color: #3b5e70; */
+  /* background: linear-gradient(to bottom, #461368, #c4a7ff, #c4a7ff); */
+  background: linear-gradient(to bottom, #ffffff, #595959);
+  margin: 0;
+  padding: 0;
+  /* background-color: #a27ab0; */
+  flex:1;
+  display: flex;
+  flex-direction: column;
+}
